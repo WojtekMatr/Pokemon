@@ -3,4 +3,4 @@ Pokemon Game
 Opis
 
 To jest projekt Pythona, który symuluje grę Pokemon.
-[![Obejrzyj grę]](https://www.youtube.com/watch?v=DqFndGVOvTs)
+[![Obejrzyj grę]](https://www.youtube.com/watch?v=sba75oKOU9c)
